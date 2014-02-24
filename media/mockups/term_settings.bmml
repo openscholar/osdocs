@@ -1,0 +1,158 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1278" measuredH="1020" mockupW="1103" mockupH="1009">
+  <controls>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="175" y="11" w="1103" h="1009" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>control%20panel%20%7C%20OS%0Ahttp%3A//mysite.edu/ferdi/cp/taxonomy/term/23900/edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::TitleWindow" x="303" y="103" w="782" h="871" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <text>Setting%20for%20term%20%22Faculty%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="247" controlTypeID="com.balsamiq.mockups::Button" x="391" y="921" w="-1" h="-1" measuredW="138" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save%20configurations</text>
+      </controlProperties>
+    </control>
+    <control controlID="267" controlTypeID="com.balsamiq.mockups::TextInput" x="391" y="192" w="441" h="-1" measuredW="57" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faculty</text>
+      </controlProperties>
+    </control>
+    <control controlID="269" controlTypeID="com.balsamiq.mockups::Label" x="391" y="165" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="274" controlTypeID="__group__" x="391" y="567" w="448" h="121" measuredW="448" measuredH="121" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="0" locked="false" isInGroup="274">
+          <controlProperties>
+            <size>16</size>
+            <text>Display%20style</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="10" y="19" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="274">
+          <controlProperties>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RadioButton" x="10" y="42" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="2" locked="false" isInGroup="274">
+          <controlProperties>
+            <text>Teaser</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RadioButton" x="10" y="64" w="-1" h="-1" measuredW="106" measuredH="22" zOrder="3" locked="false" isInGroup="274">
+          <controlProperties>
+            <text>Sidebar%20teaser</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RadioButton" x="10" y="86" w="-1" h="-1" measuredW="114" measuredH="22" zOrder="4" locked="false" isInGroup="274">
+          <controlProperties>
+            <state>selected</state>
+            <text>No%20image%20teaser</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="163" y="73" w="285" h="48" measuredW="1096" measuredH="252" zOrder="5" locked="false" isInGroup="274">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>../assets/Screenshot%25202014-01-20%252021.59.55.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="280" controlTypeID="__group__" x="391" y="716" w="441" h="142" measuredW="441" measuredH="142" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="34" measuredH="19" zOrder="0" locked="false" isInGroup="280">
+          <controlProperties>
+            <size>16</size>
+            <text>SEO</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="48" w="441" h="94" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="280">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="25" w="163" h="-1" measuredW="67" measuredH="21" zOrder="2" locked="false" isInGroup="280">
+          <controlProperties>
+            <text>Description</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::Paragraph" x="391" y="862" w="463" h="34" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>A%20brief%20and%20concise%20summary%20of%20the%20page%27s%20content%2C%20preferably%20150%20characters%20or%20less.%20The%20description%20meta%20tag%20may%20be%20used%20by%20search%20engines%20to%20display%20a%20snippet%20about%20the%20page%20in%20search%20results.</text>
+      </controlProperties>
+    </control>
+    <control controlID="283" controlTypeID="__group__" x="391" y="274" w="441" h="154" measuredW="441" measuredH="154" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="23" w="441" h="94" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="283">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="163" h="-1" measuredW="67" measuredH="21" zOrder="1" locked="false" isInGroup="283">
+          <controlProperties>
+            <text>Description</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="132" w="-1" h="-1" measuredW="202" measuredH="22" zOrder="2" locked="false" isInGroup="283">
+          <controlProperties>
+            <text>Display%20description%20in%20the%20page</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="284" controlTypeID="com.balsamiq.mockups::Label" x="392" y="227" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Page%20URL%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="285" controlTypeID="com.balsamiq.mockups::Label" x="459" y="227" w="-1" h="-1" measuredW="160" measuredH="20" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>http%3A//astronomy.harvard.edu/</text>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::TextInput" x="622" y="224" w="207" h="-1" measuredW="128" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>6710886</borderColor>
+        <text>vocabname/faculty</text>
+      </controlProperties>
+    </control>
+    <control controlID="287" controlTypeID="__group__" x="391" y="453" w="231" h="85" measuredW="231" measuredH="85" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="0" locked="false" isInGroup="287">
+          <controlProperties>
+            <size>16</size>
+            <text>Layout</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="12" y="19" w="-1" h="-1" measuredW="38" measuredH="22" zOrder="1" locked="false" isInGroup="287">
+          <controlProperties>
+            <text>List</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RadioButton" x="12" y="41" w="-1" h="-1" measuredW="210" measuredH="22" zOrder="2" locked="false" isInGroup="287">
+          <controlProperties>
+            <text>Grouped%20by%20type%20of%20content%20%28list%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RadioButton" x="12" y="63" w="-1" h="-1" measuredW="219" measuredH="22" zOrder="3" locked="false" isInGroup="287">
+          <controlProperties>
+            <text>Grouped%20by%20type%20of%20content%20%20%28grid%29</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
